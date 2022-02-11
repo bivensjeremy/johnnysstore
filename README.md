@@ -18,4 +18,3 @@ Since I've learned more, I wanted to redesign, and implement some of this knowle
 Important to note: it is a full working system, not set up for testing. If a purchase is made, a receipt will be sent, and the item will be shipped from inventory. While a passion project, it is a real store.
 
 I may make updates along the way to improve functionality.
->>>>>>> 1d5dd7e6eaa0c728ccbe7d4dac3e4456547e2344
