@@ -1,0 +1,32 @@
+.background{
+  /* background-color: #052469; */
+  background-image: linear-gradient(#052469, #052469, #F5F5F5);
+  padding: 5%;
+  padding-top: 6%;
+  margin-top: -1%;
+}
+
+.main {
+  /* min-height: 80vh; */
+  padding-top: 10%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dotted{ 
+  border: none;
+  border-top: 5px dotted;
+}
+.center {
+  /* min-height: 80vh; */
+  min-height: 80vh;
+  /* padding: 0 25%; */
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
