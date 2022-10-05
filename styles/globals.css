@@ -1,0 +1,15 @@
+html,
+body {
+  background-color: #F5F5F5;
+  padding: 0;
+  margin: 0;
+  font-family: 'Quicksand', cursive, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
